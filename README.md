@@ -1,3 +1,4 @@
+<img src="img_girl.jpg" alt="Girl in a jacket" style="width:500px;height:600px;"><br>
 <h1>Projects on Python.(Basic)</h1>
 <P>This is Repo of the basic Projects as Beginner of myself in Python.<br>
 Which is Basic Level on Python. <br>
