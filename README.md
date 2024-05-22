@@ -1,4 +1,8 @@
-<h1>Projects on Python.(Basic)</h1><br>
+<h1>Projects on Python.(Basic)</h1>
 <P>This is Repo of the basic Projects as Beginner of myself in Python.<br>
-Which is Basic Level on Python. <br>Thank You.<br>
+Which is Basic Level on Python. <br>
+ All the projects here are done using only basic PYTHON with easy syntax and logic!. Hope someone find helpful.<br>
+<br>
+ <br>
+ Thank You.<br>
  <u>Govardhan Reddy Danduvari</u> <link rel="Govardhan Reddy Danduvari" href="github.com/Govardhan9797"></P>
