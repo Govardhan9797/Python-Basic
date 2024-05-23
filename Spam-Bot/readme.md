@@ -1,8 +1,8 @@
 
 # 🛠️ Spam Bot >>
     This is just a mini spam bot, you can used to prank friends, here i added 2 bots 
-        1] bot1 -> which deals only one message until you clicked "q" to stop
-        2] bot2 -> this one is little different it actully send word by word from provided paragraph
+        1] bot-1 -> which deals only one message until you clicked "q" to stop
+        2] bot-2 -> this one is little different it actully send word by word from provided paragraph
 
 ## ⚙️Prerequisites
     nothig just check requirement.txt in this folder
