@@ -1,6 +1,6 @@
 
 # QR Code Generator
-![QR Gen](https://github.com/Govardhan9797/Python-Basic/assets/85842506/7164c2b4-3b1d-4654-a59b-59b04f580489)
+![QR Gen](https://github.com/Govardhan9797/Python-Basic/assets/85842506/7164c2b4-3b1d-4654-a59b-59b04f580489)<br>
 ![QR Gen-int](https://github.com/Govardhan9797/Python-Basic/assets/85842506/0b7322bd-7ed0-4503-aeda-4f2c1606200c)
 
 ## 🛠️ Description
