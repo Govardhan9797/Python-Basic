@@ -18,4 +18,5 @@ Run the program using command
 $ python Battery-Notification.py
 ```
 
-##author Govardhan Reddy Danduvar[https://github.com/govardhan9797]
+##author🤖 
+Govardhan Reddy Danduvari[https://github.com/govardhan9797]
