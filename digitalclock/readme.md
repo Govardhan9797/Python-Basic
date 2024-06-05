@@ -26,4 +26,5 @@ import time
   
 ##### Sample Output
    Image of sample output has been added with the program.
-#### Author🤖 Govardhan Reddy Danuvari[https://github.com/Govardhan9797]
+#### Author🤖</br> 
+      Govardhan Reddy Danuvari[https://github.com/Govardhan9797]
