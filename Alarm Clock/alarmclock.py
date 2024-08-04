@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import * #Edit this First Set
 import datetime
 import time
 from threading import *
